@@ -3,7 +3,7 @@
 SDK para generación de PDF para RCC + FicoScore
 ## Requisitos
 
-1. Java = 1.6
+1. Java = 1.8
 
 ## Ejecución
 
